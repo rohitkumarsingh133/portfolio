@@ -28,7 +28,7 @@ const projects = [
     description: "An AI-powered codebase Q&A system that helps developers understand repositories faster by allowing them to ask questions about the codebase and get contextual answers using LLMs and semantic search.",
     techStack: ["React", "TypeScript", "pgvector", "PostgreSQL", "google gemini"],
     github: "https://github.com/rohitkumarsingh133/CodeBase-Q-A",
-    demo: "#",
+    demo: "https://wondrous-haupia-d85634.netlify.app/",
     image: "📋"
   }
 ];
@@ -155,7 +155,7 @@ const ProjectsSection = () => {
             size="lg"
             asChild
           >
-            <a href="https://github.com/Aryan2005singh" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/rohitkumarsingh133" target="_blank" rel="noopener noreferrer">
               <Github className="w-5 h-5 mr-2" />
               View All Projects on GitHub
             </a>
