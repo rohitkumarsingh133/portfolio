@@ -12,7 +12,7 @@ const projects = [
     description: "AI-powered interview platform built with the MERN stack that generates role-specific interview questions through resume parsing and prompt engineering, with real-time AI evaluation, feedback, scoring, and performance insights..",
     techStack: ["React", "Node.js", "MongoDB", "OpenAI API", "Express"],
     github: "https://github.com/rohitkumarsingh133/Ai-Interview-Guider",
-    demo: "https://ai-interviewguider.netlify.app/login",
+    demo: "https://ai-interviewguider.netlify.app/",
     image: "📊"
   },
   {
