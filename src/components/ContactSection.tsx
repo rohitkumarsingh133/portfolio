@@ -147,7 +147,7 @@ const ContactSection = () => {
                   <div className="min-w-0 flex-1">
                     <div className="font-semibold text-sm sm:text-base">Email</div>
                     <a
-                      href="mailto:aryankum70912@gmail.com"
+                      href="mailto:rohitsgh7722@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors text-sm sm:text-base break-all"
                     >
                       rohitsgh7722@gmail.com
@@ -162,7 +162,7 @@ const ContactSection = () => {
                   <div className="min-w-0 flex-1">
                     <div className="font-semibold text-sm sm:text-base">Phone</div>
                     <a
-                      href="tel:+919546995527"
+                      href="tel:+916206157769"
                       className="text-muted-foreground hover:text-primary transition-colors text-sm sm:text-base"
                     >
                       +91 6206157769
